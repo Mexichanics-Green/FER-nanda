@@ -1,0 +1,3 @@
+- [ ] Modificar el README.md (Todos poner sus nombres correctamente, roles y Deyra poner una explicación del proyecto
+- [ ] Modificar el Materiales (FER-nanda).md (Enviarme un archivo de excel con la lista de materiales actualizada, cantidad necesaria, precio de cada una, link y link de imagen)
+- [ ] Modificar el Materiales (Pit).md (Enviarme un archivo de excel con la lista de materiales actualizada, cantidad necesaria, precio de cada una, link y link de imagen)
