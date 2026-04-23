@@ -11,3 +11,4 @@ venv/
 .pio/
 build/
 compile_commands.json
+pdf-forge-exports/
