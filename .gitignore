@@ -12,3 +12,7 @@ venv/
 build/
 compile_commands.json
 pdf-forge-exports/
+AREAS-ExpoCiencias-NL-2026-V1.pdf
+CONVOCATORIA-ExpoCiencias-NL-2026-V1.pdf
+Notas.md
+.vscode/

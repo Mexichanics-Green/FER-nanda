@@ -1,4 +1,4 @@
-# Contribuir al proyecto "AI for Good"
+# Contribuir al proyecto FER-nanda para ExpoCiencias 2026
 Antes de hacer cualquier contribución al proyecto, favor de leer las siguientes indicaciones para asegurarnos de que el proceso de colaboración sea lo más fluido posible.
 
 ## Utilizar los issues como punto de partida
@@ -28,7 +28,7 @@ Una pregunta común es saber ¿A dónde se deben enviar los pull requests?. Para
 
 
 <div align="center">
-	<img src="__recursos__/contributing/branchFlowChart.svg" alt="flowChartDeBranches" />
+	<img src="__recursos__/branchFlowChart.svg" alt="flowChartDeBranches" />
 </div>
 
 

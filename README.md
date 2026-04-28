@@ -5,11 +5,7 @@ Miembros del equipo:
 | Sinnai (Coach) |
 | Deyra (Líder) |
 | Jorge (Líder de programación) |
-| Julio |
-| Adolfo |
-| Aislynn |
-| Lucca |
-| Guillermo |
+| ??? (???) |
 
 ## FER-nanda
 
